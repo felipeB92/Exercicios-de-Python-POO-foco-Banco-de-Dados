@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;felipeB92&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/felipeB92/Exerc-cios-de-Python-POO-Persist-ncia-de-Dados.git&quot;,
-    &quot;accountId&quot;: &quot;2bbea8de-4d66-41ca-a5eb-a19236ccb0e4&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/felipeB92/Exercios-de-Python-POO-foco_Banco-de-Dados.git",
+    "accountId": "2bbea8de-4d66-41ca-a5eb-a19236ccb0e4"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775224622413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="inicio dos exercicios Python Orientado a Objetos">
+      <option name="closed" value="true" />
+      <created>1775224984044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775224984044</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
