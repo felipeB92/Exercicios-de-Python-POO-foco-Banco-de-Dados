@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="inicio dos exercicios Python Orientado a Objetos">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testes/Ex 002/Ex 002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Orientado a Objetos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Orientado a Objetos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex 00.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testes/Ex 001/Ex 001.py" afterDir="false" />
-    </list>
+    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="inicio dos exercicios Python Orientado a Objetos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +50,7 @@
     "Python.Ex 00.executor": "Run",
     "Python.Ex 002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -144,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775150359743</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inicio dos exercicios Python Orientado a Objetos">
+      <option name="closed" value="true" />
+      <created>1775224622413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775224622413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
