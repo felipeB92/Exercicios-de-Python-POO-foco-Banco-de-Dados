@@ -15,3 +15,4 @@ print(p1)
 
 p2 = NOME('Isabella',12)
 print(p2)
+print(p2.__dict__)
