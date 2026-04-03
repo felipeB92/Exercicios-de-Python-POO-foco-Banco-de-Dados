@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="inicio dos exercicios Python Orientado a Objetos" />
+    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="inicio dos exercicios Python Orientado a Objetos">
+      <change afterPath="$PROJECT_DIR$/Testes/Ex 003/Ex 003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +29,12 @@
     &quot;assignee&quot;: &quot;felipeB92&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/felipeB92/Exercios-de-Python-POO-foco_Banco-de-Dados.git",
-    "accountId": "2bbea8de-4d66-41ca-a5eb-a19236ccb0e4"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/felipeB92/Exercicios-de-Python-POO-foco-Banco-de-Dados.git&quot;,
+    &quot;accountId&quot;: &quot;2bbea8de-4d66-41ca-a5eb-a19236ccb0e4&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -49,6 +52,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Ex 00.executor": "Run",
     "Python.Ex 002.executor": "Run",
+    "Python.Ex 003.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -155,8 +159,35 @@
       <option name="project" value="LOCAL" />
       <updated>1775224984044</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="inicio dos exercicios Python Orientado a Objetos">
+      <option name="closed" value="true" />
+      <created>1775225321441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775225321441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="inicio dos exercicios Python Orientado a Objetos">
+      <option name="closed" value="true" />
+      <created>1775225405781</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775225405781</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicio dos exercicios Python Orientado a Objetos" />
