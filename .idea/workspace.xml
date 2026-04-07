@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="Testes com biblioteca Rich">
-      <change afterPath="$PROJECT_DIR$/Exercicios/EX001/Ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/EX002/Ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex003/Ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex004/Ex004.py" afterDir="false" />
+    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="incluidos exercicios do 1 ao 4">
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex005/Ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex006/Ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Ex007/Ex007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,8 @@
     "Python.Ex002.executor": "Run",
     "Python.Ex003.executor": "Run",
     "Python.Ex004.executor": "Run",
+    "Python.Ex005.executor": "Run",
+    "Python.Ex006.executor": "Run",
     "Python.Galeria de emojis.executor": "Run",
     "Python.Rich001.executor": "Run",
     "Python.Rich002.executor": "Run",
@@ -81,7 +82,7 @@
       <recent name="D:\Users\Felipe\PycharmProjects\Python Orientado a Objetos\Testes\Ex 00" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex004">
+  <component name="RunManager">
     <configuration name="Ex 00" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Orientado a Objetos" />
       <option name="ENV_FILES" value="" />
@@ -286,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775339498631</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="incluidos exercicios do 1 ao 4">
+      <option name="closed" value="true" />
+      <created>1775514535099</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775514535099</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +312,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicio dos exercicios Python Orientado a Objetos" />
     <MESSAGE value="Testes com biblioteca Rich" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testes com biblioteca Rich" />
+    <MESSAGE value="incluidos exercicios do 1 ao 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="incluidos exercicios do 1 ao 4" />
   </component>
 </project>
