@@ -1,0 +1,10 @@
+from Classes import *
+print('circulo raio 20')
+p1 = circulo(20)
+p1.perimetro()
+p1.area()
+print()
+print('quadrado lado 12')
+p2 = quadrado(12)
+p2.perimetro()
+p2.area()
