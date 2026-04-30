@@ -4,8 +4,6 @@ from Classes import *
 from rich import print
 from rich import table
 
-#entrga disponiveis
-
 dist = 55
 
 Viagen = [moto(dist),caminhao(dist),drone(dist)]
