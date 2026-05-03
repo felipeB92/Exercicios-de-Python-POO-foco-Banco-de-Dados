@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="implementação de exercícios foco Abstração">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex012/Classes12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Ex012/__main__.py" afterDir="false" />
+    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="implementação de exercícios foco Abstração Ex12">
+      <change afterPath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/Batalha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/__main__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +104,7 @@
       <recent name="D:\Users\Felipe\PycharmProjects\Python Orientado a Objetos\Testes\Ex 00" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__main__ (1)">
+  <component name="RunManager" selected="Python.__main__ (2)">
     <configuration name="Ex 00" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Orientado a Objetos" />
       <option name="ENV_FILES" value="" />
@@ -180,6 +180,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="__main__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Orientado a Objetos" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (Python Orientado a Objetos)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="__main__ (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Orientado a Objetos" />
       <option name="ENV_FILES" value="" />
@@ -197,31 +222,6 @@
       <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/EX008/__main__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="__main__ (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Orientado a Objetos" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.14 (Python Orientado a Objetos)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/Ex009" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Ex009/__main__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -282,19 +282,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Ex 00" />
-      <item itemvalue="Python.__Main__" />
+      <item itemvalue="Python.__main__ (2)" />
       <item itemvalue="Python.__main__ (1)" />
+      <item itemvalue="Python.__Main__" />
       <item itemvalue="Python.__main__ (3)" />
-      <item itemvalue="Python.__main__ (4)" />
       <item itemvalue="Python.__main__" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__main__ (2)" />
         <item itemvalue="Python.__main__ (1)" />
         <item itemvalue="Python.__Main__" />
         <item itemvalue="Python.__main__ (3)" />
         <item itemvalue="Python.__main__" />
-        <item itemvalue="Python.__main__ (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777581138910</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="implementação de exercícios foco Abstração Ex12">
+      <option name="closed" value="true" />
+      <created>1777656548256</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1777656548256</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,6 +459,7 @@
     <MESSAGE value="Exercicios de testes do 4 ao 6 relacionados a Herança" />
     <MESSAGE value="implementação de exercícios foco Abstração 8 ao 10" />
     <MESSAGE value="implementação de exercícios foco Abstração" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementação de exercícios foco Abstração" />
+    <MESSAGE value="implementação de exercícios foco Abstração Ex12" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementação de exercícios foco Abstração Ex12" />
   </component>
 </project>
