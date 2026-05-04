@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="implementação de exercícios foco Abstração Ex12">
-      <change afterPath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/Batalha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/__main__.py" afterDir="false" />
+    <list default="true" id="63652de7-41ef-4096-bbaf-ba0e56c542d3" name="Changes" comment="implementação de test foco Abstração Mini game Poket Monsters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/Batalha.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/Batalha.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testes/Mini_Game_poketMonsters/__main__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,8 +291,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.__main__ (2)" />
-        <item itemvalue="Python.__main__ (1)" />
         <item itemvalue="Python.__Main__" />
+        <item itemvalue="Python.__main__ (1)" />
         <item itemvalue="Python.__main__ (3)" />
         <item itemvalue="Python.__main__" />
       </list>
@@ -433,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777656548256</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="implementação de test foco Abstração Mini game Poket Monsters">
+      <option name="closed" value="true" />
+      <created>1777851707463</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1777851707463</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,6 +468,7 @@
     <MESSAGE value="implementação de exercícios foco Abstração 8 ao 10" />
     <MESSAGE value="implementação de exercícios foco Abstração" />
     <MESSAGE value="implementação de exercícios foco Abstração Ex12" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementação de exercícios foco Abstração Ex12" />
+    <MESSAGE value="implementação de test foco Abstração Mini game Poket Monsters" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementação de test foco Abstração Mini game Poket Monsters" />
   </component>
 </project>
