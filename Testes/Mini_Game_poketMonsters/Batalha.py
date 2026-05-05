@@ -56,9 +56,9 @@ class pokemon(ABC):
             print(f'{self.alvo.nome} Ficou com {self.alvo.vida:.0f} de HP')
 
     def painel(self):
-        self.PAINEL = (Panel(f'LEVEL= {self.nivel}\nTIPO={self.tipoe}\nHP= {self.vida:.0f}\nATAQUES=\n{", ".join(self.ataques)}', title=f'{
+        self.PAINEL = (Panel(f'LEVEL= {self.nivel}\nTIPO={self.tipoe}\nHP= {self.vida:.0f}\nATAQUES=\n{", ".join(self.ataques)}', title=f'{self.cor}{
             self.nome}',width=25))
-        self.PAINEL2 = (Panel(f'LEVEL= {self.alvo.nivel}\nTIPO={self.alvo.tipoe}\nHP= {self.alvo.vida:.0f}\nATAQUES=\n{", ".join(self.alvo.ataques)}', title=f'{
+        self.PAINEL2 = (Panel(f'LEVEL= {self.alvo.nivel}\nTIPO={self.alvo.tipoe}\nHP= {self.alvo.vida:.0f}\nATAQUES=\n{", ".join(self.alvo.ataques)}', title=f'{self.alvo.cor}{
             self.alvo.nome}',width=25))
         sleep(0.5)
         print(Columns([self.PAINEL,self.PAINEL2]))

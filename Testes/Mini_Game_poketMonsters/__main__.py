@@ -29,6 +29,9 @@ if i == 2:
 if i == 1:
     p2 = Bulbasaur(n2)
 
+sleep(1)
+print(f'O adversario escolheu {p2.cor}{p2.nome}[/] de nivel {n2}')
+
 while True:
     if p1.vida <= 0:
         break
